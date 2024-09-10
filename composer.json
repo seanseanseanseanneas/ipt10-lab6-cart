@@ -1,0 +1,15 @@
+{
+    "name": "aufcss/shopcart",
+    "description": "A simple Php Project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Angeliko Yumul"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "monolog/monolog": "^3.7"
+    }
+}
